@@ -24,4 +24,4 @@ print(my_tuple.count(4)) # count() : it counts how many values in there tuple
 
 print(my_tuple.index(5)) # index() : it shows the index of values
 
-print(len(my_tuple)) # len() : shows length of a tuple
+print(len(my_tuple)) # len() : shows length of a tuple.
