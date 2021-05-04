@@ -1,4 +1,4 @@
-# Logical Operator and Comparison Operators
+# Logical and Comparison operator and Comparison Operators
 """
 Comparison Operators are :
 < : less than
