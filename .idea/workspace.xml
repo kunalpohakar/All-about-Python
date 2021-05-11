@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63bc7115-b861-48b0-9300-5f7eef9d32e0" name="Default Changelist" comment="Logical Operator and Comparison Operator">
-      <change afterPath="$PROJECT_DIR$/Python basics 2/Loops/for_loop.py" afterDir="false" />
+    <list default="true" id="63bc7115-b861-48b0-9300-5f7eef9d32e0" name="Default Changelist" comment="For Loop is Done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python basics 2/Logical Operator/Logical_Comparison_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python basics 2/Logical and Comparison operator/Logical_Comparison_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python basics 2/Loops/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python basics 2/Loops/for_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620128035432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="For Loop is Done.">
+      <created>1620145066467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620145066467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +173,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="started python basic 2" />
     <MESSAGE value="Logical Operator and Comparison Operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logical Operator and Comparison Operator" />
+    <MESSAGE value="For Loop is Done." />
+    <option name="LAST_COMMIT_MESSAGE" value="For Loop is Done." />
   </component>
 </project>

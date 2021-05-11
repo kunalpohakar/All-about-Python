@@ -2,6 +2,10 @@
 # in this program we performed List operations 
 
 # Creating List
+
+flipkart = ['mobile', 1, 10.5]
+
+print(flipkart[1])
 # List is defined in Square Brackets
 # In List you can define any kind of body ex.. int, string, float, and etc....
 amazon_cart = ["notebooks", "Laptop"] # In HERE "amazon_cart" is name of list
@@ -33,20 +37,19 @@ print(amazon_cart)
 
 # List Methods 
 
-# adding : append() is built in function it adds a value at the end of the list.
+# adding : .append() is built in function it adds a value at the end of the list.
 
 basket = [1, 2, 3, 4, 5]
 
-basket.append(6)
+basket.append(6) 
 print(basket)
-
 
 # insert : insert(index_no, value) is built in function it insert a value at any index which you give.
 
-basket.insert(0, 0)
+basket.insert(1, "kunal")
 print(basket) 
 
-# extend : extend([]) is a built in function it extends a list.
+# extend : .extend([]) is a built in function it extends a list.
 
 basket.extend([7, 8, 9])
 print(basket)
@@ -69,8 +72,7 @@ print(basket)
 
 #  index : index() its just return index no " Syntax : index(value, start, stop) " 
 
-new_list = ['a', 'b', 'c', 'e', 'd', 'f', 'c',]
-
+new_list = ['a', 'b', 'c', 'e', 'd', 'f', 'c']
 print(new_list.index('b', 0, 2))
 
 # count : count() it's just count numbers of values in list.
