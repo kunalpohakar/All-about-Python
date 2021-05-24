@@ -1,3 +1,4 @@
+import math
 # Functions
 # syntax of creating a function
 '''
@@ -28,3 +29,16 @@ def main(name, emoji):
 
 # Arguments
 main('Kunal', ':)')
+
+
+# Exercise Time
+
+def highest_even(li):
+    evens = []
+    for i in li:
+        if i%2 == 0:
+            evens.append(i)
+    print(max(evens))
+    print(min(evens))
+
+highest_even([10,2,3,4,8,11])
